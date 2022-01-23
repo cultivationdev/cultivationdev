@@ -1,6 +1,6 @@
-# Python Level Up: Dockerize Your Python Apps
+# Python Debian Poetry Flask Template
 
-## py-debian-poetry-flask-template
+- Authored by Kyle Clark. Visit [devcultivation.com](https://devcultivation.com) for more content.
 
 ### Local Development
 
